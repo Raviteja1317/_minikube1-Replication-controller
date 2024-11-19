@@ -16,6 +16,13 @@ Now install docker
          
          DOCKER VERSION
 ![Screenshot (10)](https://github.com/user-attachments/assets/575db7df-464a-4e44-8adb-5a6c403c9e8e)
+**step:3**
+#Installation of minikube:
+
+               sudo curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+                sudo mv minikube-linux-amd64 /usr/local/bin/minikube
+                sudo chmod +x /usr/local/bin/minikube
+                sudo minikube version
 
 
 
