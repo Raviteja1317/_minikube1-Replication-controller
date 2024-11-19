@@ -60,6 +60,9 @@ kubectl create -f ravi.yml - by this command if pod is created then the work is 
 ![Screenshot (20)](https://github.com/user-attachments/assets/ac93f9c8-0fd9-46ca-ab56-d688adb374f3)
 
 
+kubectl api-resources
+
+
            
          
 
