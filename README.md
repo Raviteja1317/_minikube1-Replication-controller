@@ -50,9 +50,11 @@ Now install docker
           create yam file
 
           ![Screenshot (16)](https://github.com/user-attachments/assets/12580b91-5bb4-4cc5-bb8b-82175a7ee0b3)
+          
           vi ravi.yml
 
          kubectl api-resources
+         
          ![Screenshot (18)](https://github.com/user-attachments/assets/78282e56-f263-4d01-8500-ea34f05de400)
 
          ![Screenshot (20)](https://github.com/user-attachments/assets/2b4f9ba5-0a0e-4521-892b-2b86062acbb3)
