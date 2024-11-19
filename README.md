@@ -36,7 +36,7 @@ Now install docker
 
          **Create the pod commands:**
 
-                         kubectl run pod-name --image=image-name 
+                       ** kubectl run pod-name --image=image-name **
 
           ![Screenshot (14)](https://github.com/user-attachments/assets/180c4a3d-3ffb-429e-822c-3c3c4b0e9c54)
                
