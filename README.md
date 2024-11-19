@@ -32,17 +32,12 @@ Now install docker
          sudo echo "$(cat kubectl.sha256) kubectl" | sha256sum --check
          
          sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
-         
+
          sudo kubectl version --client --output=yaml 
-         
-         chmod +x kubectl
-         
+         chmod +x kubectl 
          sudo minikube start --driver=docker --force
          
-         ![Screenshot (12)](https://github.com/user-attachments/assets/97df39d9-ea58-42c6-96a3-0de079a261d9)
 
-         **Create the pod commands:**
-           kubectl run pod-name --image=image-name
 
          
 
