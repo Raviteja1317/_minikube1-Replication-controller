@@ -42,7 +42,10 @@ sudo echo "$(cat kubectl.sha256) kubectl" | sha256sum --check
 
 sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
 
-sudo kubectl version --client         
+sudo kubectl version --client  
+
+![Screenshot (13)](https://github.com/user-attachments/assets/36dfc623-1224-4f31-a758-47366630afb3)
+
 
 
          
