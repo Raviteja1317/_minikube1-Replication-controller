@@ -32,6 +32,8 @@ Now install docker
          sudo kubectl version --client --output=yaml 
          chmod +x kubectl
          sudo minikube start --driver=docker --force
+         ![Screenshot (12)](https://github.com/user-attachments/assets/97df39d9-ea58-42c6-96a3-0de079a261d9)
+
          
                       
 
