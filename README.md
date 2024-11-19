@@ -46,6 +46,10 @@ sudo kubectl version --client
 
 ![Screenshot (13)](https://github.com/user-attachments/assets/36dfc623-1224-4f31-a758-47366630afb3)
 
+**Create the pod commands**
+
+                kubectl run pod-name --image=image-name 
+
 
 
          
