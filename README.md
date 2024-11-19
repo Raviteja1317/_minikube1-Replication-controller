@@ -14,7 +14,9 @@ Now install docker
          sudo curl -fsSL https://get.docker.com -o get-docker.sh 
          chmod 777 get-docker.sh sh get-docker.sh
          
+         DOCKER VERSION
 ![Screenshot (10)](https://github.com/user-attachments/assets/575db7df-464a-4e44-8adb-5a6c403c9e8e)
+
 
 
 
