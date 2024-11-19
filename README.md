@@ -56,6 +56,7 @@ Now install docker
          kubectl api-resources
          
          ![Screenshot (18)](https://github.com/user-attachments/assets/78282e56-f263-4d01-8500-ea34f05de400)
+         ![Screenshot (20)](https://github.com/user-attachments/assets/2b4f9ba5-0a0e-4521-892b-2b86062acbb3)
 
          
 
