@@ -41,6 +41,9 @@ Now install docker
 
           **step:4**
           create yam file
+
+          ![Screenshot (16)](https://github.com/user-attachments/assets/12580b91-5bb4-4cc5-bb8b-82175a7ee0b3)
+
                
                          
                 
