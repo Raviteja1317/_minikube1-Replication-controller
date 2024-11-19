@@ -35,10 +35,12 @@ Now install docker
          ![Screenshot (12)](https://github.com/user-attachments/assets/97df39d9-ea58-42c6-96a3-0de079a261d9)
 
          **Create the pod commands:**
-
-                       ** kubectl run pod-name --image=image-name **
+           kubectl run pod-name --image=image-name
 
           ![Screenshot (14)](https://github.com/user-attachments/assets/180c4a3d-3ffb-429e-822c-3c3c4b0e9c54)
+
+          **step:4**
+          create yam file
                
                          
                 
