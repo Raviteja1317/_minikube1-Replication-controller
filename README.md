@@ -34,6 +34,10 @@ Now install docker
          sudo minikube start --driver=docker --force
          ![Screenshot (12)](https://github.com/user-attachments/assets/97df39d9-ea58-42c6-96a3-0de079a261d9)
 
+         **Create the pod commands:**
+
+                         kubectl run pod-name --image=image-name 
+
          
                       
 
