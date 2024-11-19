@@ -46,11 +46,8 @@ sudo kubectl version --client
 
 ![Screenshot (13)](https://github.com/user-attachments/assets/36dfc623-1224-4f31-a758-47366630afb3)
 
-**Create the pod commands**
-
-
-     ![Screenshot (14)](https://github.com/user-attachments/assets/acec2f1f-048b-4ab5-b0c1-87af78b8867d)
-           
+Create the pod commands
+         
 
 
 
