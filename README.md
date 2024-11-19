@@ -36,6 +36,9 @@ Now install docker
          sudo kubectl version --client --output=yaml 
          chmod +x kubectl 
          sudo minikube start --driver=docker --force
+
+         **step:4**
+         #Create the pod commands:
          
 
 
