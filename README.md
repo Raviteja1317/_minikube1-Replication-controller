@@ -1,0 +1,1 @@
+# _minikube1-Replication-controller
