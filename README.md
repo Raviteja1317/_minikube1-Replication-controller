@@ -55,6 +55,8 @@ create yam file
 
 vi ravi.yml
 
+kubectl create -f ravi.yml - by this command if pod is created then the work is done
+
            
          
 
